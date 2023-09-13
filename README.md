@@ -1,3 +1,5 @@
 # AgentEV
+AgentEV는 [Agent.jl](https://github.com/JuliaDynamics/Agents.jl) framework를 이용한 EV agent-based model입니다.
 
-[![Build Status](https://github.com/MamboPower/AgentEV.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/MamboPower/AgentEV.jl/actions/workflows/CI.yml?query=branch%3Amain)
+## 문제 정의
+
